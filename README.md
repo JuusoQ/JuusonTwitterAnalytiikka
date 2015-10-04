@@ -10,6 +10,6 @@ JuusonTwitterAnalytiikka on yksinkertainen skripti, jonka avulla pystyy tarkaste
 * Katso miten olet miten paljon olet twiittaillut ja kenen kanssa
 
 ## Kehitys & ongelma
-Parantelen tätä aina välillä. Jos haluat jotain uusia ominaisuuksia tai on ongelmia, ota yhtyettä twitterissä nimimerkille Juusoq.
+Parantelen tätä aina välillä. Jos haluat jotain uusia ominaisuuksia tai on ongelmia, ota yhtyettä twitterissä nimimerkille JuusoQ.
 
 
