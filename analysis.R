@@ -1,5 +1,10 @@
+library(dplyr)
+library(stringr)
+library(magrittr)
+library(ggplot2)
+library(ggthemes)
 # analysis for the tweet archive
-
+setwd("~/Documents/Twiitit2015/")
 all_tweets <- read.csv("tweets.csv")
 
 all_tweets$user <- str_extract(all_tweets$text, "@[A-Za-z0-9^_]*")
